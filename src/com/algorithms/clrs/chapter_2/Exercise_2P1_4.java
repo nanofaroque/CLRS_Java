@@ -1,6 +1,6 @@
 package com.algorithms.clrs.chapter_2;
 
-public class Exercise_2_1_4 {
+public class Exercise_2P1_4 {
     public static void main(String[] args) {
         int n=3;
         int[] a=new int[]{1,0,1};

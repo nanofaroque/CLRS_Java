@@ -1,6 +1,6 @@
 package com.algorithms.clrs.chapter_2;
 
-public class Exercise2_1_1 {
+public class Exercise_2P1_1 {
     public static void main(String[] args) {
         int[] in = new int[]{31, 41, 59, 26, 41, 58};
         sort(in);
